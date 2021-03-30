@@ -1,0 +1,12 @@
+{
+    "name": "nisadelgado/nisadelgado",
+    "description": "Landing page with information about me, portfolio and contact form",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nisa Delgado",
+            "email": "nisadelgado@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
