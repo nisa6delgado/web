@@ -1,4 +1,4 @@
 # Web
 Sitio web personal
 
-![Pantalla principal](https://nisadelgado.com/img/web.jpdasdasg)
+![Pantalla principal](https://nisadelgado.com/img/web.jpg)
