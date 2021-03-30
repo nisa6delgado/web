@@ -122,6 +122,15 @@
                     </a>
                 </div>
             </div>
+
+            <div class="col-lg-10 col-md-10 mx-auto">
+                <div class="text-center m-4">
+                    <h4>Criszoe</h4>
+                    <a target="_blank" href="https://ganaderiacriszoe.com.es/">
+                        <img class="img-fluid" src="img/criszoe.jpg" alt="">
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 
