@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <!-- Bootstrap core CSS -->
-    <link href="/node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
     <link href="/node_modules/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -63,7 +63,7 @@
             <div class="row">
                 <div class="col-lg-8 col-md-10 mx-auto">
                     <div class="page-heading">
-                        <h1>Contacto</h1>
+                        <h1>Charlas</h1>
                     </div>
                 </div>
             </div>
@@ -73,47 +73,15 @@
     <!-- Main Content -->
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-md-10 mx-auto">
-                <form name="sentMessage" id="contactForm" novalidate>
-                    <div class="control-group">
-                        <div class="form-group floating-label-form-group controls">
-                            <label>Nombre</label><input type="text" class="form-control" placeholder="Nombre" id="name" required data-validation-required-message="Ingrese su nombre.">
-                            <p class="help-block text-danger"></p>
-                        </div>
+            <div class="col-lg-10 col-md-10 mx-auto">
+                <div class="text-center m-4">
+                    <h4>Estructura base para aplicaciones PHP profesionales</h4>
+
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8x12lQBD894?AutoHide=1&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                        
                     </div>
 
-                    <div class="control-group">
-                        <div class="form-group floating-label-form-group controls">
-                            <label>Correo electrónico</label>
-                            <input type="email" class="form-control" placeholder="Correo electrónico" id="email" required data-validation-required-message="Ingrese su correo electrónico.">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-
-                    <div class="control-group">
-                        <div class="form-group col-xs-12 floating-label-form-group controls">
-                            <label>Asunto</label>
-                            <input type="text" class="form-control" placeholder="Asunto" id="subject" required data-validation-required-message="Ingrese un asunto.">
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-
-                    <div class="control-group">
-                        <div class="form-group floating-label-form-group controls">
-                            <label>Mensaje</label>
-                            <textarea rows="5" class="form-control" placeholder="Mensaje" id="message" required data-validation-required-message="Ingrese un mensaje."></textarea>
-                            <p class="help-block text-danger"></p>
-                        </div>
-                    </div>
-
-                    <br>
-
-                    <div id="success"></div>
-
-                    <div class="form-group">
-                        <button style="border-color: black; background-color: black" type="submit" class="btn btn-primary" id="sendMessageButton">Enviar</button>
-                    </div>
-                </form>
+                </div>
             </div>
         </div>
     </div>
@@ -152,7 +120,7 @@
                                 </span>
                             </a>
                         </li>
-                        
+
                         <li class="list-inline-item">
                             <a target="_blank" href="https://www.youtube.com/channel/UCTgu94owdYN98yBZQnW0ihA">
                                 <span class="fa-stack fa-lg">
@@ -174,10 +142,6 @@
     <!-- Bootstrap core JavaScript -->
     <script src="/node_modules/jquery/dist/jquery.js"></script>
     <script src="/node_modules/bootstrap/dist/js/bootstrap.js"></script>
-
-    <!-- Contact Form JavaScript -->
-    <script src="/js/jqBootstrapValidation.js"></script>
-    <script src="/js/contact.js"></script>
 
     <!-- Custom scripts for this template -->
     <script src="/js/main.js"></script>

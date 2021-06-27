@@ -47,6 +47,10 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/portafolio">Portafolio</a>
                     </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/charlas">Charlas</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -71,9 +75,27 @@
         <div class="row">
             <div class="col-lg-10 col-md-10 mx-auto">
                 <div class="text-center m-4">
-                    <h4>Línea y Figura</h4>
-                    <a target="_blank" href="https://admin.esteticalineayfigura.com">
-                        <img class="img-fluid" src="img/spa.jpg" alt="">
+                    <h4>Base PHP</h4>
+                    <a target="_blank" href="https://github.com/nisa6delgado/base">
+                        <img class="img-fluid" src="img/base.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-10 col-md-10 mx-auto">
+                <div class="text-center m-4">
+                    <h4>CPharma</h4>
+                    <a target="_blank" href="https://cpharmagp.com">
+                        <img class="img-fluid" src="img/cpharma.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-10 col-md-10 mx-auto">
+                <div class="text-center m-4">
+                    <h4>Criszoe</h4>
+                    <a target="_blank" href="https://ganaderiacriszoe.com.es/">
+                        <img class="img-fluid" src="img/criszoe.jpg" alt="">
                     </a>
                 </div>
             </div>
@@ -89,27 +111,9 @@
 
             <div class="col-lg-10 col-md-10 mx-auto">
                 <div class="text-center m-4">
-                    <h4>FERNAINOX</h4>
-                    <a target="_blank" href="https://fernainox.com.mx">
-                        <img class="img-fluid" src="img/fernainox.jpg" alt="">
-                    </a>
-                </div>
-            </div>
-
-            <div class="col-lg-10 col-md-10 mx-auto">
-                <div class="text-center m-4">
-                    <h4>Digitali PSY</h4>
+                    <h4>DigitaliPSY</h4>
                     <a target="_blank" href="https://app.digitalipsy.com">
                         <img class="img-fluid" src="img/digitalipsy.png" alt="">
-                    </a>
-                </div>
-            </div>
-
-            <div class="col-lg-10 col-md-10 mx-auto">
-                <div class="text-center m-4">
-                    <h4>Tareas</h4>
-                    <a target="_blank" href="https://tareas.nisadelgado.com">
-                        <img class="img-fluid" src="img/tareas.png" alt="">
                     </a>
                 </div>
             </div>
@@ -125,9 +129,27 @@
 
             <div class="col-lg-10 col-md-10 mx-auto">
                 <div class="text-center m-4">
-                    <h4>Criszoe</h4>
-                    <a target="_blank" href="https://ganaderiacriszoe.com.es/">
-                        <img class="img-fluid" src="img/criszoe.jpg" alt="">
+                    <h4>FERNAINOX</h4>
+                    <a target="_blank" href="https://fernainox.com.mx">
+                        <img class="img-fluid" src="img/fernainox.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-10 col-md-10 mx-auto">
+                <div class="text-center m-4">
+                    <h4>Línea y Figura</h4>
+                    <a target="_blank" href="https://admin.esteticalineayfigura.com">
+                        <img class="img-fluid" src="img/spa.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-10 col-md-10 mx-auto">
+                <div class="text-center m-4">
+                    <h4>Tareas</h4>
+                    <a target="_blank" href="https://tareas.nisadelgado.com">
+                        <img class="img-fluid" src="img/tareas.png" alt="">
                     </a>
                 </div>
             </div>

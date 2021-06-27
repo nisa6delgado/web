@@ -43,6 +43,10 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/portafolio">Portafolio</a>
                     </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/charlas">Charlas</a>
+                    </li>
                 </ul>
             </div>
         </div>
