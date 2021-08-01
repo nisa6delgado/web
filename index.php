@@ -72,7 +72,7 @@
         <div class="row">
             <div class="col-lg-10 col-md-10 mx-auto">
                 <div class="text-center">
-                    <img src="img/user.jpg" alt="" style="border-radius: 200px">
+                    <img src="img/user.jpg" alt="" style="width: 400px;border-radius: 200px">
                 </div>
 
                 <div class="text-justify">
