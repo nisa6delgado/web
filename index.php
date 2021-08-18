@@ -78,7 +78,7 @@
                 <div class="text-justify">
                     <p>Mi nombre es Nisa Delgado. Nací, crecí y vivo en Maracaibo, Venezuela. Tengo 27 años. Soy Técnico en Informática graduado en el Instituto Universitario de Tecnología Readic UNIR en diciembre de 2015.</p>
 
-                    <p>Desarrollo aplicaciones web con PHP, Laravel y WordPress, para front-end utilizo Bootstrap con jQuery o Vue.js, todo eso sobre bases de datos relacionales como MySQL, SQL Server u Oracle. También he desarrollado aplicaciones móviles en Apache Cordova, MobileUI y jQuery Mobile.</p>
+                    <p>Desarrollo aplicaciones web con PHP y Laravel, para el frontend utilizo Bootstrap o Tailwind con jQuery, Vue.js o Alpine.js, todo eso sobre bases de datos relacionales como MySQL, SQL Server o SQLite. También he desarrollado aplicaciones móviles en Apache Cordova, MobileUI y jQuery Mobile.</p>
 
                     <p>Cuando no estoy programando, estoy rodando en mi bicicleta o moviendo piezas en un tablero de ajedrez.</p>
                 </div>
