@@ -60,7 +60,7 @@
 			<p class="mb-20">Si necesitas contactarme, deja un mensaje en esta sección y tan pronto como pueda me pondré en contacto contigo.</p>
 
 			<form>
-				<div class="w-full grid grid-cols-1">
+				<div class="w-full grid grid-cols-1 mb-5">
 					<div id="result">
 						
 					</div>
