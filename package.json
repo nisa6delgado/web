@@ -3,7 +3,7 @@
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@tailwindcss/aspect-ratio": "^0.2.1",
     "@tailwindcss/forms": "^0.3.3",
-    "htmx": "^0.0.2",
+    "htmx.org": "^1.5.0",
     "plugin": "^0.0.15",
     "tailwindcss": "^2.2.15"
   }

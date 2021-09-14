@@ -146,8 +146,7 @@
         </a>
 	</footer>
 
-	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-	<script src="https://unpkg.com/htmx.org@1.5.0"></script>
+	<script src="node_modules/htmx.org/dist/htmx.js"></script>
 	<script src="js/main.js"></script>
 </body>
 </html>
