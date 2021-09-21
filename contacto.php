@@ -16,7 +16,7 @@
 
 </head>
 
-<body class="bg-gray-100 font-sans leading-normal tracking-normal">
+<body x-data="app" @scroll.window="scroll" class="bg-gray-100 font-sans leading-normal tracking-normal">
 	<nav id="header" class="fixed w-full z-10 top-0">
 		<div id="progress" class="h-1 z-20 top-0" style="background:linear-gradient(to right, black var(--scroll), transparent 0);"></div>
 		<div class="w-full md:max-w-4xl mx-auto flex flex-wrap items-center justify-between mt-0 py-3">
@@ -147,6 +147,7 @@
 	</footer>
 
 	<script src="node_modules/htmx.org/dist/htmx.js"></script>
+	<script src="node_modules/alpinejs/dist/cdn.js" defer></script>
 	<script src="js/main.js"></script>
 </body>
 </html>

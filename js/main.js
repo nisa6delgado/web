@@ -1,32 +1,30 @@
-var h = document.documentElement,
-	b = document.body,
-	st = 'scrollTop',
-	sh = 'scrollHeight',
-	progress = document.querySelector('#progress'),
-	scroll;
-var scrollpos = window.scrollY;
-var header = document.getElementById("header");
-var navcontent = document.getElementById("nav-content");
+function app() {
+	return {
+		element: document.documentElement,
+		body: document.body,
+		navContent: document.getElementById('nav-content'),
 
-document.addEventListener('scroll', function() {
-	scroll = (h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight) * 100;
-	progress.style.setProperty('--scroll', scroll + '%');
+		scroll () {
+			scroll = (this.element['scrollTop'] || this.body['scrollTop']) / ((this.element['scrollHeight'] || this.body['scrollHeight']) - this.element.clientHeight) * 100;
+			progress.style.setProperty('--scroll', scroll + '%');
 
-	scrollpos = window.scrollY;
+			position = window.scrollY;
 
-	if (scrollpos > 10) {
-		header.classList.add("bg-white");
-		header.classList.add("shadow");
-		navcontent.classList.remove("bg-gray-100");
-		navcontent.classList.add("bg-white");
-	} else {
-		header.classList.remove("bg-white");
-		header.classList.remove("shadow");
-		navcontent.classList.remove("bg-white");
-		navcontent.classList.add("bg-gray-100");
+			if (position > 10) {
+				header.classList.add("bg-white");
+				header.classList.add("shadow");
+				this.navContent.classList.remove("bg-gray-100");
+				this.navContent.classList.add("bg-white");
+			} else {
+				header.classList.remove("bg-white");
+				header.classList.remove("shadow");
+				this.navContent.classList.remove("bg-white");
+				this.navContent.classList.add("bg-gray-100");
+			}
+		},
+
+		toggle () {
+			this.navContent.classList.toggle('hidden');
+		}
 	}
-});
-
-document.getElementById('nav-toggle').onclick = function() {
-	document.getElementById("nav-content").classList.toggle("hidden");
 }
