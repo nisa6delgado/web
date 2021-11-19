@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.4",
-    "@tailwindcss/aspect-ratio": "^0.2.1",
-    "@tailwindcss/forms": "^0.3.3",
-    "alpinejs": "^3.4.0",
-    "htmx.org": "^1.5.0",
+    "@fortawesome/fontawesome-free": "5.15.4",
+    "@tailwindcss/aspect-ratio": "0.3.0",
+    "@tailwindcss/forms": "0.3.4",
+    "alpinejs": "3.5.1",
+    "htmx.org": "1.6.0",
     "plugin": "^0.0.15",
-    "tailwindcss": "^2.2.15"
+    "tailwindcss": "2.2.19"
   }
 }
