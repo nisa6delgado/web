@@ -74,6 +74,10 @@
 				<div class="aspect-w-16 aspect-h-9">
 					<iframe src="https://www.youtube.com/embed/S1SssS-rE8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
+
+				<div class="mt-5 aspect-w-16 aspect-h-9">
+					<iframe src="https://www.youtube.com/embed/Ec9JF_3ze6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
 			</div>
 
 			<div class="w-full mb-10">
