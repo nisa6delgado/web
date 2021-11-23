@@ -6,14 +6,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-<link rel="icon" type="image/png" href="img/favicon.png">
+<link rel="icon" type="image/png" href="/img/favicon.png">
 
 <title>Nisa Delgado</title>
 
-<link rel="stylesheet" href="node_modules/@tailwindcss/forms/dist/forms.css">
-<link rel="stylesheet" href="node_modules/@tailwindcss/aspect-ratio/dist/aspect-ratio.css">
-<link href="node_modules/tailwindcss/dist/tailwind.css" rel="stylesheet">
-<link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">
+<link rel="stylesheet" href="/node_modules/@tailwindcss/forms/dist/forms.css">
+<link rel="stylesheet" href="/node_modules/@tailwindcss/aspect-ratio/dist/aspect-ratio.css">
+<link href="/node_modules/tailwindcss/dist/tailwind.css" rel="stylesheet">
+<link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/all.css">
 
 </head>
 
@@ -120,7 +120,7 @@
         </a>
 	</footer>
 
-	<script src="node_modules/alpinejs/dist/cdn.js" defer></script>
-	<script src="js/main.js"></script>
+	<script src="/node_modules/alpinejs/dist/cdn.js" defer></script>
+	<script src="/js/main.js"></script>
 </body>
 </html>

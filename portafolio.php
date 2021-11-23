@@ -6,13 +6,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-<link rel="icon" type="image/png" href="img/favicon.png">
+<link rel="icon" type="image/png" href="/img/favicon.png">
 
 <title>Nisa Delgado</title>
 
-<link rel="stylesheet" href="node_modules/@tailwindcss/forms/dist/forms.css">
-<link href="node_modules/tailwindcss/dist/tailwind.css" rel="stylesheet">
-<link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">
+<link rel="stylesheet" href="/node_modules/@tailwindcss/forms/dist/forms.css">
+<link href="/node_modules/tailwindcss/dist/tailwind.css" rel="stylesheet">
+<link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/all.css">
 
 </head>
 
@@ -63,7 +63,7 @@
 				<h1 class="text-3xl font-semibold mb-3">Base PHP</h1>
 
 				<a href="https://github.com/nisa6delgado/base" target="_blank">
-					<img src="img/base.jpg">
+					<img src="/img/base.jpg">
 				</a>
 			</div>
 
@@ -71,7 +71,7 @@
 				<h1 class="text-3xl font-semibold mb-3">CPharma</h1>
 
 				<a href="https://cpharmagp.com" target="_blank">
-					<img src="img/cpharma.jpg">
+					<img src="/img/cpharma.jpg">
 				</a>
 			</div>
 
@@ -79,7 +79,7 @@
 				<h1 class="text-3xl font-semibold mb-3">Criszoe</h1>
 
 				<a href="https://ganaderiacriszoe.com.es" target="_blank">
-					<img src="img/criszoe.jpg">
+					<img src="/img/criszoe.jpg">
 				</a>
 			</div>
 
@@ -87,7 +87,7 @@
 				<h1 class="text-3xl font-semibold mb-3">Crypto Trading Academy</h1>
 
 				<a href="https://criptotradingacademy.com" target="_blank">
-					<img src="img/cryptotradingacademy.png">
+					<img src="/img/cryptotradingacademy.png">
 				</a>
 			</div>
 
@@ -95,7 +95,7 @@
 				<h1 class="text-3xl font-semibold mb-3">DigitaliPSY</h1>
 
 				<a href="https://app.digitalipsy.com" target="_blank">
-					<img src="img/digitalipsy.png">
+					<img src="/img/digitalipsy.png">
 				</a>
 			</div>
 
@@ -103,7 +103,7 @@
 				<h1 class="text-3xl font-semibold mb-3">E-Stocker</h1>
 
 				<a href="https://e-stocker.com" target="_blank">
-					<img src="img/estocker.jpg">
+					<img src="/img/estocker.jpg">
 				</a>
 			</div>
 
@@ -111,7 +111,7 @@
 				<h1 class="text-3xl font-semibold mb-3">FERNAINOX</h1>
 
 				<a href="https://fernainox.com.mx" target="_blank">
-					<img src="img/fernainox.jpg">
+					<img src="/img/fernainox.jpg">
 				</a>
 			</div>
 
@@ -119,7 +119,7 @@
 				<h1 class="text-3xl font-semibold mb-3">Línea y Figura</h1>
 
 				<a href="https://admin.esteticalineayfigura.com" target="_blank">
-					<img src="img/spa.jpg">
+					<img src="/img/spa.jpg">
 				</a>
 			</div>
 
@@ -127,7 +127,7 @@
 				<h1 class="text-3xl font-semibold mb-3">Tareas</h1>
 
 				<a href="https://tareas.nisadelgado.com" target="_blank">
-					<img src="img/tareas.png">
+					<img src="/img/tareas.png">
 				</a>
 			</div>
 		</div>
@@ -163,7 +163,7 @@
         </a>
 	</footer>
 
-	<script src="node_modules/alpinejs/dist/cdn.js" defer></script>
-	<script src="js/main.js"></script>
+	<script src="/node_modules/alpinejs/dist/cdn.js" defer></script>
+	<script src="/js/main.js"></script>
 </body>
 </html>

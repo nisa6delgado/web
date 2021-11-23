@@ -6,12 +6,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-<link rel="icon" type="image/png" href="img/favicon.png">
+<link rel="icon" type="image/png" href="/img/favicon.png">
 
 <title>Nisa Delgado</title>
 
-<link href="node_modules/tailwindcss/dist/tailwind.css" rel="stylesheet">
-<link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">
+<link href="/node_modules/tailwindcss/dist/tailwind.css" rel="stylesheet">
+<link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/all.css">
 
 </head>
 
@@ -89,6 +89,6 @@
         </a>
 	</footer>
 
-	<script src="js/main.js"></script>
+	<script src="/js/main.js"></script>
 </body>
 </html>

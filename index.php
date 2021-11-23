@@ -6,12 +6,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-<link rel="icon" type="image/png" href="img/favicon.png">
+<link rel="icon" type="image/png" href="/img/favicon.png">
 
 <title>Nisa Delgado</title>
 
-<link href="node_modules/tailwindcss/dist/tailwind.css" rel="stylesheet">
-<link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">
+<link href="/node_modules/tailwindcss/dist/tailwind.css" rel="stylesheet">
+<link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/all.css">
 
 </head>
 
@@ -55,7 +55,7 @@
 
 	<div class="container w-full md:max-w-3xl mx-auto pt-20">
 		<div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal">
-			<img class="mx-auto w-6/12 rounded-full" src="img/perfil.jpg">
+			<img class="mx-auto w-6/12 rounded-full" src="/img/perfil.jpg">
 
 			<p class="py-6 text-justify">Mi nombre es Nisa Delgado. Nací, crecí y vivo en Maracaibo, Venezuela. Tengo 27 años. Soy Técnico en Informática graduado en el Instituto Universitario de Tecnología Readic UNIR en diciembre de 2015.</p>
 
@@ -95,7 +95,7 @@
         </a>
 	</footer>
 
-	<script src="node_modules/alpinejs/dist/cdn.js" defer></script>
-	<script src="js/main.js"></script>
+	<script src="/node_modules/alpinejs/dist/cdn.js" defer></script>
+	<script src="/js/main.js"></script>
 </body>
 </html>
