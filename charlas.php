@@ -12,7 +12,6 @@
 
 <link rel="stylesheet" href="/node_modules/@tailwindcss/forms/dist/forms.css">
 <link rel="stylesheet" href="/node_modules/@tailwindcss/aspect-ratio/dist/aspect-ratio.css">
-<link href="/node_modules/tailwindcss/dist/tailwind.css" rel="stylesheet">
 <link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/all.css">
 
 </head>
@@ -120,6 +119,7 @@
         </a>
 	</footer>
 
+	<script src="https://cdn.tailwindcss.com"></script>
 	<script src="/node_modules/alpinejs/dist/cdn.js" defer></script>
 	<script src="/js/main.js"></script>
 </body>
