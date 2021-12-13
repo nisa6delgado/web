@@ -10,6 +10,7 @@
 
 <title>Nisa Delgado</title>
 
+<script src="https://cdn.tailwindcss.com"></script>
 <link rel="stylesheet" href="/node_modules/@tailwindcss/forms/dist/forms.css">
 <link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/all.css">
 
@@ -161,8 +162,7 @@
             </span>
         </a>
 	</footer>
-
-	<script src="https://cdn.tailwindcss.com"></script>
+	
 	<script src="/node_modules/alpinejs/dist/cdn.js" defer></script>
 	<script src="/js/main.js"></script>
 </body>
