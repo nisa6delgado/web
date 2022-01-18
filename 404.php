@@ -90,5 +90,14 @@
 	</footer>
 
 	<script src="/js/main.js"></script>
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-TC9NKTE66N"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-TC9NKTE66N');
+	</script>
 </body>
 </html>
