@@ -124,10 +124,18 @@
 			</div>
 
 			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Shalom</h1>
+
+				<a href="http://guiashalom.com/admin" target="_blank">
+					<img src="/img/shalom.PNG">
+				</a>
+			</div>
+
+			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Tareas</h1>
 
 				<a href="https://tareas.nisadelgado.com" target="_blank">
-					<img src="/img/tareas.png">
+					<img src="/img/tareas.jpg">
 				</a>
 			</div>
 		</div>
