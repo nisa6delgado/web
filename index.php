@@ -57,9 +57,9 @@
 		<div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal">
 			<img class="mx-auto w-6/12 rounded-full" src="/img/perfil.jpg">
 
-			<p class="py-6 text-justify">Mi nombre es Nisa Delgado. Nací, crecí y vivo en Maracaibo, Venezuela. Tengo 27 años. Soy Técnico en Informática graduado en el Instituto Universitario de Tecnología Readic UNIR en diciembre de 2015.</p>
+			<p class="py-6 text-justify">Mi nombre es Nisa Delgado. Nací, crecí y vivo en Maracaibo, Venezuela. Tengo 28 años. Soy Técnico en Informática graduado en el Instituto Universitario de Tecnología Readic UNIR en diciembre de 2015.</p>
 
-			<p class="pb-6 text-justify">Desarrollo aplicaciones web con PHP y Laravel, para el frontend utilizo Bootstrap o Tailwind con jQuery, Vue.js o Alpine.js, todo eso sobre bases de datos relacionales como MySQL, SQL Server o SQLite. También he desarrollado aplicaciones móviles en Apache Cordova, MobileUI y jQuery Mobile.</p>
+			<p class="pb-6 text-justify">Desarrollo aplicaciones web con PHP y Laravel, para el frontend utilizo Tailwind con Alpine o Vue, todo eso sobre bases de datos relacionales como MySQL, PostgreSQL, etc. También he desarrollado aplicaciones móviles con React Native.</p>
 
 			<p class="pb-6 text-justify">Cuando no estoy programando, estoy rodando en mi bicicleta o moviendo piezas en un tablero de ajedrez.</p>
 		</div>
