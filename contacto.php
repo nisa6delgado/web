@@ -11,8 +11,9 @@
 <title>Nisa Delgado</title>
 
 <script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="/node_modules/@tailwindcss/forms/dist/forms.css">
+
 <link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/all.css">
+<link rel="stylesheet" href="/node_modules/flowbite/dist/flowbite.css">
 
 </head>
 
@@ -72,7 +73,7 @@
 					</div>
 
 					<div>
-						<input name="name" required type="text" class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+						<input name="name" required type="text" class="block w-full">
 					</div>
 				</div>
 
@@ -82,7 +83,7 @@
 					</div>
 
 					<div>
-						<input name="email" required type="email" class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+						<input name="email" required type="email" class="block w-full">
 					</div>
 				</div>
 
@@ -92,7 +93,7 @@
 					</div>
 
 					<div>
-						<input name="subject" required type="text" class="block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+						<input name="subject" required type="text" class="block w-full">
 					</div>
 				</div>
 
@@ -102,7 +103,7 @@
 					</div>
 
 					<div>
-						<textarea name="message" class="block w-full rounded-md px-3 py-2 border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"></textarea>
+						<textarea name="message" class="block w-full"></textarea>
 					</div>
 				</div>
 
