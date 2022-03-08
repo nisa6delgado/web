@@ -14,6 +14,7 @@
 
 <link rel="stylesheet" href="/node_modules/@fortawesome/fontawesome-free/css/all.css">
 <link rel="stylesheet" href="/node_modules/flowbite/dist/flowbite.css">
+<link rel="stylesheet" href="/css/style.css">
 
 </head>
 
