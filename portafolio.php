@@ -138,6 +138,14 @@
 					<img src="/img/tareas.jpg">
 				</a>
 			</div>
+
+			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Tu Promotor</h1>
+
+				<a href="https://tupromotor.net" target="_blank">
+					<img src="/img/tupromotor.png">
+				</a>
+			</div>
 		</div>
 	</div>
 
