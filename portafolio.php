@@ -66,6 +66,14 @@
 					<img src="/img/base.jpg">
 				</a>
 			</div>
+			
+			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Betancourt</h1>
+
+				<a href="https://clinicamedicabetancourt.com/dashboard/home" target="_blank">
+					<img src="/img/betancourt.jpg">
+				</a>
+			</div>
 
 			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">CPharma</h1>
