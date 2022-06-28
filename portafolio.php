@@ -92,14 +92,6 @@
 			</div>
 
 			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Crypto Trading Academy</h1>
-
-				<a href="https://criptotradingacademy.com" target="_blank">
-					<img src="/img/cryptotradingacademy.png">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">DigitaliPSY</h1>
 
 				<a href="https://app.digitalipsy.com" target="_blank">
@@ -120,14 +112,6 @@
 
 				<a href="https://fernainox.com.mx" target="_blank">
 					<img src="/img/fernainox.jpg">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Línea y Figura</h1>
-
-				<a href="https://admin.esteticalineayfigura.com" target="_blank">
-					<img src="/img/spa.jpg">
 				</a>
 			</div>
 
