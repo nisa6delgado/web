@@ -118,7 +118,7 @@
 			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Shalom</h1>
 
-				<a href="http://guiashalom.com/admin" target="_blank">
+				<a href="https://guiashalom.com/admin" target="_blank">
 					<img src="/img/shalom.PNG">
 				</a>
 			</div>
