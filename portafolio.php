@@ -116,6 +116,14 @@
 			</div>
 
 			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">i9 Finance</h1>
+
+				<a href="https://i9finance.com/dashboard" target="_blank">
+					<img src="/img/i9finance.jpg">
+				</a>
+			</div>
+
+			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Shalom</h1>
 
 				<a href="https://guiashalom.com/admin" target="_blank">
