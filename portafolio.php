@@ -116,14 +116,6 @@
 			</div>
 
 			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">FERNAINOX</h1>
-
-				<a href="https://fernainox.com.mx" target="_blank">
-					<img src="/img/fernainox.jpg">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">i9 Finance</h1>
 
 				<a href="https://i9finance.com/dashboard" target="_blank">
