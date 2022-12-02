@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "@fortawesome/fontawesome-free": "6.2.0",
+    "@fortawesome/fontawesome-free": "6.2.1",
     "@tailwindcss/aspect-ratio": "0.4.2",
     "alpinejs": "3.10.5",
-    "flowbite": "1.5.3",
-    "htmx.org": "1.8.2"
+    "flowbite": "1.5.4",
+    "htmx.org": "1.8.4"
   }
 }
