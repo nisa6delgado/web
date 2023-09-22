@@ -108,10 +108,26 @@
 			</div>
 
 			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Empréstimos Rápidos</h1>
+
+				<a href="https://emprestimosrapidos.com.br" target="_blank">
+					<img src="/img/emprestimos-rapidos.png">
+				</a>
+			</div>
+
+			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">E-Stocker</h1>
 
 				<a href="https://e-stocker.com" target="_blank">
 					<img src="/img/estocker.jpg">
+				</a>
+			</div>
+
+			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Grupo Renascer</h1>
+
+				<a href="https://systemgruporenascer.com.br" target="_blank">
+					<img src="/img/grupo-renascer.jpg">
 				</a>
 			</div>
 
@@ -185,9 +201,12 @@
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-TC9NKTE66N"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
 
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+
+		gtag('js', new Date());
 		gtag('config', 'G-TC9NKTE66N');
 	</script>
 </body>

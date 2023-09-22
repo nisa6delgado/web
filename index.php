@@ -59,9 +59,9 @@
 
 			<p class="py-6 text-justify">Mi nombre es Nisa Delgado. Nací, crecí y vivo en Maracaibo, Venezuela. Tengo 29 años. Soy Técnico en Informática graduado en el Instituto Universitario de Tecnología Readic UNIR en diciembre de 2015.</p>
 
-			<p class="pb-6 text-justify">Desarrollo aplicaciones web con PHP y Laravel, para el frontend utilizo Tailwind con Alpine o Vue, todo eso sobre bases de datos relacionales como MySQL, PostgreSQL, etc. También he desarrollado aplicaciones móviles con React Native.</p>
+			<p class="pb-6 text-justify">Desarrollo aplicaciones web con PHP y Laravel, para el frontend utilizo Tailwind o Bootstrap con Alpine o Vue, todo eso sobre bases de datos relacionales como MySQL, PostgreSQL, etc. También he desarrollado aplicaciones móviles con React Native.</p>
 
-			<p class="pb-6 text-justify">Cuando no estoy programando, estoy rodando en mi bicicleta o moviendo piezas en un tablero de ajedrez.</p>
+			<p class="pb-6 text-justify">Cuando no estoy programando, estoy rodando en mi motocicleta o moviendo piezas en un tablero de ajedrez.</p>
 		</div>
 	</div>
 
@@ -101,9 +101,12 @@
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-TC9NKTE66N"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
 
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+
+		gtag('js', new Date());
 		gtag('config', 'G-TC9NKTE66N');
 	</script>
 </body>
