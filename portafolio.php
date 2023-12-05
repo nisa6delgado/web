@@ -148,6 +148,22 @@
 			</div>
 
 			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Sports TV Rights</h1>
+
+				<a href="https://api-v2.sportstvrights.com" target="_blank">
+					<img src="/img/sports-tv-rights.png">
+				</a>
+			</div>
+
+			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Sys Clinic</h1>
+
+				<a href="https://sysclinic.net" target="_blank">
+					<img src="/img/sysclinic.png">
+				</a>
+			</div>
+
+			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Tareas</h1>
 
 				<a href="https://tareas.nisadelgado.com" target="_blank">
