@@ -3,7 +3,7 @@
     "@fortawesome/fontawesome-free": "6.5.1",
     "@tailwindcss/aspect-ratio": "0.4.2",
     "alpinejs": "3.13.3",
-    "flowbite": "2.2.0",
-    "htmx.org": "1.9.9"
+    "flowbite": "2.2.1",
+    "htmx.org": "1.9.10"
   }
 }
