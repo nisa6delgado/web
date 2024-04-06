@@ -66,36 +66,20 @@
 					<img src="/img/base.jpg">
 				</a>
 			</div>
-			
-			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Betancourt</h1>
-
-				<a href="https://clinicamedicabetancourt.com/dashboard/home" target="_blank">
-					<img src="/img/betancourt.jpg">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Bus 365</h1>
-
-				<a href="https://www.base-php.com/bus365" target="_blank">
-					<img src="/img/bus365.jpg">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">CPharma</h1>
-
-				<a href="https://cpharmagp.com" target="_blank">
-					<img src="/img/cpharma.jpg">
-				</a>
-			</div>
 
 			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Criszoe</h1>
 
 				<a href="https://ganaderiacriszoe.com.es" target="_blank">
 					<img src="/img/criszoe.jpg">
+				</a>
+			</div>
+
+			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">CRM Schools and Students</h1>
+
+				<a href="https://github.com/Kevinrosmusic/crm-schools-students" target="_blank">
+					<img src="/img/crm-schools-students.jpg">
 				</a>
 			</div>
 
@@ -116,10 +100,10 @@
 			</div>
 
 			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">E-Stocker</h1>
+				<h1 class="text-3xl font-semibold mb-3">Estudio Oral</h1>
 
-				<a href="https://e-stocker.com" target="_blank">
-					<img src="/img/estocker.jpg">
+				<a href="https://app.clinicaestudiooral.com/admin" target="_blank">
+					<img src="/img/estudio-oral.jpg">
 				</a>
 			</div>
 
@@ -140,26 +124,10 @@
 			</div>
 
 			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Shalom</h1>
-
-				<a href="https://guiashalom.com/admin" target="_blank">
-					<img src="/img/shalom.PNG">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Sports TV Rights</h1>
 
-				<a href="https://api-v2.sportstvrights.com" target="_blank">
+				<a href="https://api-v3.sportstvrights.com" target="_blank">
 					<img src="/img/sports-tv-rights.png">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Sys Clinic</h1>
-
-				<a href="https://sysclinic.net" target="_blank">
-					<img src="/img/sysclinic.png">
 				</a>
 			</div>
 
@@ -168,14 +136,6 @@
 
 				<a href="https://tareas.nisadelgado.com" target="_blank">
 					<img src="/img/tareas.jpg">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Tu Promotor</h1>
-
-				<a href="https://tupromotor.net" target="_blank">
-					<img src="/img/tupromotor.png">
 				</a>
 			</div>
 		</div>
