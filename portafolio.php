@@ -74,6 +74,14 @@
 					<img src="/img/city-night.png">
 				</a>
 			</div>
+			
+			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Connect Salud</h1>
+
+				<a href="https://conectsalud.com" target="_blank">
+					<img src="/img/connect-salud.png">
+				</a>
+			</div>
 
 			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Criszoe</h1>
