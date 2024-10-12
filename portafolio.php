@@ -54,7 +54,7 @@
 		</div>
 	</nav>
 
-	<div class="container w-full md:max-w-3xl mx-auto pt-20 pb-10">
+	<div class="container w-full md:max-w-3xl mx-auto pt-40 pb-40">
 		<div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal">
 			<p class="mb-5">¡Hola!</p>
 			<p class="mb-20">Aquí puedes ver algunos de los proyectos que he realizado anteriormente, haciendo click en la imagen, podrás ir al proyecto en cuestión.</p>
@@ -154,6 +154,14 @@
 					<img src="/img/tareas.jpg">
 				</a>
 			</div>
+
+			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Todeus</h1>
+
+				<a href="https://tareas.nisadelgado.com" target="_blank">
+					<img src="/img/todeus.png">
+				</a>
+			</div>
 		</div>
 	</div>
 
@@ -161,7 +169,7 @@
 		<a target="_blank" href="https://twitter.com/nisa6delgado">
             <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                <i class="fab fa-x-twitter fa-stack-1x fa-inverse"></i>
             </span>
         </a>
 
@@ -190,6 +198,20 @@
             <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+
+        <a target="_blank" href="https://www.linkedin.com/in/nisa-delgado">
+            <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+
+        <a target="_blank" href="https://www.facebook.com/nisa6delgado">
+            <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
             </span>
         </a>
 	</footer>
