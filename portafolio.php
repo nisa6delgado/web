@@ -70,16 +70,8 @@
 			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">City Night</h1>
 
-				<a href="https://index.citynight.app" target="_blank">
+				<a href="https://citynight.app" target="_blank">
 					<img src="/img/city-night.png">
-				</a>
-			</div>
-			
-			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Connect Salud</h1>
-
-				<a href="https://conectsalud.com" target="_blank">
-					<img src="/img/connect-salud.png">
 				</a>
 			</div>
 
@@ -124,22 +116,6 @@
 			</div>
 
 			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Grupo Renascer</h1>
-
-				<a href="https://systemgruporenascer.com.br" target="_blank">
-					<img src="/img/grupo-renascer.jpg">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">i9 Finance</h1>
-
-				<a href="https://i9finance.com/dashboard" target="_blank">
-					<img src="/img/i9finance.jpg">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Sports TV Rights</h1>
 
 				<a href="https://api-v3.sportstvrights.com" target="_blank">
@@ -158,7 +134,7 @@
 			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Todeus</h1>
 
-				<a href="https://tareas.nisadelgado.com" target="_blank">
+				<a href="https://app.todeus.com" target="_blank">
 					<img src="/img/todeus.png">
 				</a>
 			</div>
