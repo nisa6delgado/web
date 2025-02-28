@@ -76,18 +76,18 @@
 			</div>
 
 			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Criszoe</h1>
-
-				<a href="https://ganaderiacriszoe.com.es" target="_blank">
-					<img src="/img/criszoe.jpg">
-				</a>
-			</div>
-
-			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">CRM Schools and Students</h1>
 
 				<a href="https://github.com/Kevinrosmusic/crm-schools-students" target="_blank">
 					<img src="/img/crm-schools-students.jpg">
+				</a>
+			</div>
+
+			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Nube Admin</h1>
+
+				<a href="https://localhost:8080" target="_blank">
+					<img src="/img/nube-admin.png">
 				</a>
 			</div>
 
@@ -108,10 +108,10 @@
 			</div>
 
 			<div class="w-full mb-10">
-				<h1 class="text-3xl font-semibold mb-3">Estudio Oral</h1>
+				<h1 class="text-3xl font-semibold mb-3">Rei do Pano</h1>
 
-				<a href="https://app.clinicaestudiooral.com/admin" target="_blank">
-					<img src="/img/estudio-oral.jpg">
+				<a href="https://appreidopano.com.br" target="_blank">
+					<img src="/img/rei-do-pano.png">
 				</a>
 			</div>
 
@@ -124,10 +124,18 @@
 			</div>
 
 			<div class="w-full mb-10">
+				<h1 class="text-3xl font-semibold mb-3">Sys Clinic</h1>
+
+				<a href="https://sysclinic.net/admin" target="_blank">
+					<img src="/img/sysclinic.png">
+				</a>
+			</div>
+
+			<div class="w-full mb-10">
 				<h1 class="text-3xl font-semibold mb-3">Tareas</h1>
 
 				<a href="https://tareas.nisadelgado.com" target="_blank">
-					<img src="/img/tareas.jpg">
+					<img src="/img/tareas.png">
 				</a>
 			</div>
 
