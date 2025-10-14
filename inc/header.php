@@ -42,14 +42,21 @@
 					<li class="mr-3">
 						<a class="inline-block py-2 px-4 text-gray-900 font-bold no-underline" href="/">Inicio</a>
 					</li>
+
 					<li class="mr-3">
 						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/contacto">Contacto</a>
 					</li>
+
 					<li class="mr-3">
 						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/portafolio">Portafolio</a>
 					</li>
+
 					<li class="mr-3">
 						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/charlas">Charlas</a>
+					</li>
+
+					<li class="mr-3">
+						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/files/cv.pdf">CV</a>
 					</li>
 				</ul>
 			</div>
