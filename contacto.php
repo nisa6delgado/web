@@ -18,7 +18,7 @@
 				</div>
 
 				<div>
-					<input name="name" required type="text" class="block w-full">
+					<input name="name" required type="text" class="block border w-full p-1">
 				</div>
 			</div>
 
@@ -28,7 +28,7 @@
 				</div>
 
 				<div>
-					<input name="email" required type="email" class="block w-full">
+					<input name="email" required type="email" class="block border w-full p-1">
 				</div>
 			</div>
 
@@ -38,7 +38,7 @@
 				</div>
 
 				<div>
-					<input name="subject" required type="text" class="block w-full">
+					<input name="subject" required type="text" class="block border w-full p-1">
 				</div>
 			</div>
 
@@ -48,7 +48,7 @@
 				</div>
 
 				<div>
-					<textarea name="message" class="block w-full"></textarea>
+					<textarea name="message" class="block border w-full p-1"></textarea>
 				</div>
 			</div>
 

@@ -40,19 +40,35 @@
 			<div class="w-full flex-grow lg:flex lg:items-center lg:w-auto hidden lg:block mt-2 lg:mt-0 bg-gray-100 md:bg-transparent z-20" id="nav-content">
 				<ul class="list-reset lg:flex justify-end flex-1 items-center">
 					<li class="mr-3">
-						<a class="inline-block py-2 px-4 text-gray-900 font-bold no-underline" href="/">Inicio</a>
+						<?php if($_SERVER['SCRIPT_URL'] == '/'): ?>
+							<a class="inline-block py-2 px-4 text-gray-900 font-bold no-underline" href="/">Inicio</a>
+						<?php else: ?>
+							<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/">Inicio</a>
+						<?php endif; ?>
 					</li>
 
 					<li class="mr-3">
-						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/contacto">Contacto</a>
+						<?php if($_SERVER['SCRIPT_URL'] == '/contacto'): ?>
+							<a class="inline-block py-2 px-4 text-gray-900 font-bold no-underline" href="/contacto">Contacto</a>
+						<?php else: ?>
+							<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/contacto">Contacto</a>
+						<?php endif; ?>
 					</li>
 
 					<li class="mr-3">
-						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/portafolio">Portafolio</a>
+						<?php if($_SERVER['SCRIPT_URL'] == '/portafolio'): ?>
+							<a class="inline-block py-2 px-4 text-gray-900 font-bold no-underline" href="/portafolio">Portafolio</a>
+						<?php else: ?>
+							<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/portafolio">Portafolio</a>
+						<?php endif; ?>
 					</li>
 
 					<li class="mr-3">
-						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/charlas">Charlas</a>
+						<?php if($_SERVER['SCRIPT_URL'] == '/charlas'): ?>
+							<a class="inline-block py-2 px-4 text-gray-900 font-bold no-underline" href="/charlas">Charlas</a>
+						<?php else: ?>
+							<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="/charlas">Charlas</a>
+						<?php endif; ?>
 					</li>
 
 					<li class="mr-3">
