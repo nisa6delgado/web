@@ -2,8 +2,8 @@
 
 <div class="container w-full md:max-w-3xl mx-auto pt-40 pb-40">
 	<div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal">
-		<p class="mb-5">¡Hola!</p>
-		<p class="mb-20">Aquí puedes ver algunos de los proyectos que he realizado anteriormente, haciendo click en la imagen, podrás ir al proyecto en cuestión.</p>
+		<p class="mb-5" x-text="portfolio.hello ?? $el.textContent">¡Hola!</p>
+		<p class="mb-20" x-text="portfolio.intro ?? $el.textContent">Aquí puedes ver algunos de los proyectos que he realizado anteriormente, haciendo click en la imagen, podrás ir al proyecto en cuestión.</p>
 
 		<div class="w-full mb-10">
 			<h1 class="text-3xl font-semibold mb-3">Base PHP</h1>
