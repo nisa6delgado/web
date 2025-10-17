@@ -2,8 +2,11 @@
 
 <div class="container w-full md:max-w-3xl mx-auto pt-40 pb-40">
 	<div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal">
-		<p class="mb-5">¡Hola!</p>
-		<p class="mb-20">En esta sección puedes visualizar algunas charlas en las que comparto mi conocimiento para toda la comunidad de Internet.</p>
+		<p class="mb-5" x-text="talks.hello ?? $el.textContent">¡Hola!</p>
+
+		<p class="mb-20" x-text="talks.intro ?? $el.textContent">
+			En esta sección puedes visualizar algunas charlas en las que comparto mi conocimiento para toda la comunidad de Internet.
+		</p>
 
 		<div class="w-full mb-10">
 			<h1 class="text-3xl font-semibold mb-3">DesarrolloWeb.com</h1>

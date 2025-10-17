@@ -22,7 +22,7 @@ return [
         'email' => 'Email',
         'subject' => 'Subject',
         'message' => 'Message',
-        'send' => 'Send',
+        'send' => '<i class="fas fa-paper-plane mr-2"></i> Send',
     ],
 
     'portfolio' => [
@@ -34,4 +34,6 @@ return [
         'hello' => 'Hello!',
         'intro' => 'In this section you can view some talks where I share my knowledge with the entire Internet community.',
     ],
+
+    'notFound' => 'Page not found',
 ];

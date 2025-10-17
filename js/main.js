@@ -9,6 +9,7 @@ function app() {
 		contact: {},
 		portfolio: {},
 		talks: {},
+		notFound: null,
 
 		init() {
 			const lang = navigator.language;
