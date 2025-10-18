@@ -9,6 +9,8 @@
 		</p>
 
 		<form>
+			<input type="hidden" name="language">
+
 			<div class="w-full grid grid-cols-1 mb-5">
 				<div id="result">
 					

@@ -23,6 +23,9 @@ return [
         'subject' => 'Subject',
         'message' => 'Message',
         'send' => '<i class="fas fa-paper-plane mr-2"></i> Send',
+        'required' => 'All fields are required',
+        'format' => 'The email format is invalid',
+        'success' => 'Message sent successfully',
     ],
 
     'portfolio' => [
