@@ -14,7 +14,9 @@ function app() {
 		init() {
 			const lang = navigator.language;
 
-			document.getElementsByName('language')[0].value = lang;
+			if (document.getElementsByName('language')[0]) {
+				document.getElementsByName('language')[0].value = lang;
+			}
 
 			fetch(`/inc/language.php?language=${lang}`)
                 .then(response => response.json())
