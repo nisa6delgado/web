@@ -12,12 +12,20 @@
 				<img src="/img/base.jpg">
 			</a>
 		</div>
-		
-		<div class="w-full mb-10">
-			<h1 class="text-3xl font-semibold mb-3">City Night</h1>
 
-			<a href="https://citynight.app" target="_blank">
-				<img src="/img/city-night.png">
+		<div class="w-full mb-10">
+			<h1 class="text-3xl font-semibold mb-3">Bet Analyzer</h1>
+
+			<a href="https://github.com/nisa6delgado/bet-analyzer" target="_blank">
+				<img src="/img/bet-analyzer.png">
+			</a>
+		</div>
+
+		<div class="w-full mb-10">
+			<h1 class="text-3xl font-semibold mb-3">Bunk</h1>
+
+			<a href="https://github.com/nisa6delgado/bunk" target="_blank">
+				<img src="/img/bunk.png">
 			</a>
 		</div>
 
@@ -32,7 +40,7 @@
 		<div class="w-full mb-10">
 			<h1 class="text-3xl font-semibold mb-3">Nube Admin</h1>
 
-			<a href="https://localhost:8080" target="_blank">
+			<a href="https://app.nube-admin.com" target="_blank">
 				<img src="/img/nube-admin.png">
 			</a>
 		</div>
@@ -54,26 +62,10 @@
 		</div>
 
 		<div class="w-full mb-10">
-			<h1 class="text-3xl font-semibold mb-3">Rei do Pano</h1>
-
-			<a href="https://appreidopano.com.br" target="_blank">
-				<img src="/img/rei-do-pano.png">
-			</a>
-		</div>
-
-		<div class="w-full mb-10">
 			<h1 class="text-3xl font-semibold mb-3">Sports TV Rights</h1>
 
 			<a href="https://api-v3.sportstvrights.com" target="_blank">
 				<img src="/img/sports-tv-rights.png">
-			</a>
-		</div>
-
-		<div class="w-full mb-10">
-			<h1 class="text-3xl font-semibold mb-3">Sys Clinic</h1>
-
-			<a href="https://sysclinic.net/admin" target="_blank">
-				<img src="/img/sysclinic.png">
 			</a>
 		</div>
 
